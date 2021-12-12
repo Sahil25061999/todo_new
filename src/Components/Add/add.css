@@ -1,0 +1,13 @@
+.add_button {
+  height: 12rem;
+  width: 15rem;
+  border-radius: 0.5rem;
+  border: none;
+  margin: 0.8rem;
+  cursor: pointer;
+}
+
+.addButton {
+  font-size: 4rem;
+  color: rgb(143, 143, 143);
+}
